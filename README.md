@@ -4,7 +4,7 @@
 
 ##Guidelines
 
-* Use the [hints](HINTS.md) for solving the problems. 
+* Use Comments and give hints so that everyone can understand what's going on.
 * Maintain directory structure like below:
 	
 		Problems-AND-Solution/
