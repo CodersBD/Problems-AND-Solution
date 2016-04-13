@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int a[1000],n,l,k,j,i;
+scanf("%d",&n);
+for(i=0;i<n;i++){
+scanf("%d",&a[i]);
+}
+l=n-1;
+for(j=l;j>0;j--){
+printf("%d",a[j]);
+}
+return 0;
+}
