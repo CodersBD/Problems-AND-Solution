@@ -20,6 +20,6 @@
 			
 ##Contributing
 
-There are many problems left without hints. Feel free to add or update the hints by sending a pull a request. The solutions are mostly written in C++. If you have solutions in any other language (Java or python) please make a pull request. 
+There are many problems left without hints. Feel free to add or update the hints by sending a pull a request. The solutions are mostly written in C++. If you have solutions in any other language please make a pull request. 
 
 
